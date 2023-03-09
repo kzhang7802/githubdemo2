@@ -9,6 +9,8 @@ def main():
     # ask for a password if input is 1
     pass
 
+# added a comment
+
 if __name__ == '__main__':
     main()
 
